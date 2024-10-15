@@ -1,0 +1,1 @@
+// GFG Practice (Minimum Cost to cut a board into squares).
