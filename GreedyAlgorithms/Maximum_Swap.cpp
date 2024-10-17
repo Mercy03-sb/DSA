@@ -1,6 +1,6 @@
 #include <bits/stdc++.h>
 using namespace std;
-
+// Traversing Right to Left to mark the maximum and potential swap indexs
 class Solution {
 public:
     int maximumSwap(int num) {
